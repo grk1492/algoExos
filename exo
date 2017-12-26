@@ -1,0 +1,8 @@
+Créer une fonction qui filtre un tableau pour récupérer que les nombres au dessus de 10.(recréer la fonction filter :) )
+Créer une fonction qui ajoute un élément a la 3eme place d'un tableau qui a déja 9 éléments.
+Créer une fonction qui recupere un tableau d'objet(nom, prenom, age) qui affiche les personne qui on plus de 25 ans
+Créer une fonction qui, dans un tableau d'objet, modifie la description de l'objet dont le nom est passé en paramètre
+
+
+Créer une fonction qui recupere et affiche les objet du animals.json 
+

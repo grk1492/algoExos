@@ -1,0 +1,32 @@
+{
+	"animals" : [
+		{
+			"name": "rottweiler",
+			"type":"chien"
+		},
+		{
+			"name": "lion",
+			"type":"chat"
+		},
+		{
+			"name": "aigle",
+			"type":"oiseau"
+		},
+		{
+			"name": "dobermann",
+			"type":"chien"
+		},
+		{
+			"name": "pigeon",
+			"type":"oiseau"
+		},
+		{
+			"name": "tigre",
+			"type":"chat"
+		},
+		{
+			"name": "caniche",
+			"type":"canin"
+		},
+	]
+}
